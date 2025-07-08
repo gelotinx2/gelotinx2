@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Gelo
 
-🎨 (ex) Web Designer @ eClerx
-⚛️ React Dev
-📱 Junior Android Developer @ Squadzip
-🎧 Talkbox Pioneer in PH
+🎨 (ex) Web Designer @ eClerx\n
+⚛️ React Dev\n
+📱 Junior Android Developer @ Squadzip\n
+🎧 Talkbox Pioneer in PH\n
 🏙️ Building Harana Bay in Cities: Skylines
