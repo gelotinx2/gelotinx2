@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Gelo
 
-🎨 (ex) Web Designer
+📱 Android Developer
+
+🎨 Web Designer
 
 ⚛️ React Dev
-
-📱 Android Developer
 
 🎧 Talkbox Pioneer in PH
 
